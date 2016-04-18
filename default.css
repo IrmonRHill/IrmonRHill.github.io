@@ -14,9 +14,8 @@
 		color: #444444;
 	}
 	
-	p
+	p.blocktext
 	{
-		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		text-align: center;
