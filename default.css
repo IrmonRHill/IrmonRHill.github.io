@@ -68,6 +68,7 @@
 	.image
 	{
 		display: inline-block;
+		border-radius: 40%
 	}
 	
 	.image img
