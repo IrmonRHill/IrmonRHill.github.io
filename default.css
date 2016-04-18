@@ -8,7 +8,7 @@
 		margin: 0px;
 		padding: 0px;
 		background: #202020;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Palatino Linotype', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
 		color: #444444;
@@ -20,6 +20,7 @@
 		margin: 0;
 		padding: 0;
 		font-weight: 600;
+		font-family:'Palatino Linotype', sans-serif;
 		color: #333333;
 	}
 	
