@@ -1,4 +1,4 @@
-@import url(http://www.1001fonts.com/berylium-font.html)
+@import url(https://fonts.googleapis.com/css?family=Exo:500);
 
 	html, body
 	{
@@ -29,7 +29,7 @@
 		margin: 0;
 		padding: 0;
 		font-weight: 600;
-		font-family:'Berylium', sans-serif;
+		font-family:'Exo', sans-serif;
 		color: #333333;
 	}
 	
