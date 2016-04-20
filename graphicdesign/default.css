@@ -73,7 +73,6 @@
 /*********************************************************************************/
 	img
 	{
-		border-radius:50%;
 		display: block;
 		margin-left: auto;
 		margin-right:auto;
@@ -545,10 +544,10 @@ h2.title{
   margin: 20px 0;
 }
 
-div.container{
+/**div.container{
   width: 1040px;
   margin: auto;
-}
+}**/
 
 div.images {
   margin: 5px;
