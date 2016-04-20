@@ -1,3 +1,5 @@
+@import url(http://www.1001fonts.com/berylium-font.html)
+
 	html, body
 	{
 		height: 100%;
@@ -27,7 +29,7 @@
 		margin: 0;
 		padding: 0;
 		font-weight: 600;
-		font-family:'Palatino Linotype', sans-serif;
+		font-family:'Berylium', sans-serif;
 		color: #333333;
 	}
 	
